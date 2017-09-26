@@ -1,4 +1,5 @@
 #include<stdio.h>
 main(){
-printf("hello world");
+printf("hello  c world\n");
+printf("I have entered git hub\n");
 }
